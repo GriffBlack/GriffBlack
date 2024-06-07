@@ -1,13 +1,13 @@
 ﻿<h1 align="right">Привет 👋, Меня зовут Юрий💻</h1>
-<h3 align="right">
-    Student:  School 21, Developer.
-</h3>
 <!-- school21 -->
 <p align="right">
     <a href="https://21-school.ru/" target="_blank" rel="noreferrer">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNZFIk73yb9p4nNtxi27Nyv9K6Nth_wZJCA&s" alt="school21" width="100" height="100"/>
     </a> 
 </p>
+<h3 align="right">
+    Student:  School 21, Developer.
+</h3>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
